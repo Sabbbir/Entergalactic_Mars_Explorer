@@ -29,7 +29,7 @@ In the vast cosmos, our team, 'Entergalactic' presents the Entergalactic Mars Ex
 
 Join us on this cosmic journey and get ready to explore Mars as a real-life space tourist. Adventure awaits! 
 
-## Mars Odyssey: Your Journey Beyond Earth 🚀<a name = "p1"></a>
+## Mars Odyssey: Your Journey Beyond Earth <a name = "p1"></a>
 
 Embark on an otherworldly adventure through the captivating landscapes and discoveries of Mars. Dive into a world where rovers roam, marvel at stunning Martian vistas, and get ready to ignite your curiosity about the Red Planet!"
 
